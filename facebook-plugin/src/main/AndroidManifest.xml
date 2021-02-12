@@ -15,6 +15,7 @@
                 "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:label="@string/godot_project_name_string" />
 
+
     </application>
 
 </manifest>
